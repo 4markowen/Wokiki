@@ -2,7 +2,7 @@
 <head>
 </head>
 <body>
-<?php include '../config/header.php';
+<?php include '../config/menu.php';
 
 ?>
 <h1>Welcome to my home page!</h1>
